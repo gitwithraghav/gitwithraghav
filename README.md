@@ -3,9 +3,10 @@
 I'm Raghav!
 
 * 1st Year B.Tech in Computer Science and Engineering
-Heritage Institute of Technology, Kolkata
+   Heritage Institute of Technology, Kolkata
 
-About Raghav⚡:
+<h2 align="left">About Raghav⚡</h2>
+
 I'm Raghav Gupta, pursuing 1st year B.Tech in Computer Science and Engineering.
 Outside Tech, I love to read, enjoy music and explore nature.
 

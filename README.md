@@ -2,8 +2,7 @@
 
 I'm Raghav!
 
-* 1st Year B.Tech in Computer Science and Engineering
-   Heritage Institute of Technology, Kolkata
+* 1st Year B.Tech in Computer Science and Engineering <br> <strong> Heritage Institute of Technology, Kolkata </strong>
 
 <h2 align="left">About Raghav⚡</h2>
 
